@@ -1,0 +1,7 @@
+C:\Users\aroue\source\repos\DecreaseAndConquer\bin\Debug\DecreaseAndConquer.exe.config
+C:\Users\aroue\source\repos\DecreaseAndConquer\bin\Debug\DecreaseAndConquer.exe
+C:\Users\aroue\source\repos\DecreaseAndConquer\bin\Debug\DecreaseAndConquer.pdb
+C:\Users\aroue\source\repos\DecreaseAndConquer\obj\Debug\DecreaseAndConquer.csprojAssemblyReference.cache
+C:\Users\aroue\source\repos\DecreaseAndConquer\obj\Debug\DecreaseAndConquer.csproj.CoreCompileInputs.cache
+C:\Users\aroue\source\repos\DecreaseAndConquer\obj\Debug\DecreaseAndConquer.exe
+C:\Users\aroue\source\repos\DecreaseAndConquer\obj\Debug\DecreaseAndConquer.pdb
